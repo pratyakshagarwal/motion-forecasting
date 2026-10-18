@@ -2,7 +2,7 @@
 
 Predict where a car will be over the next 6 seconds from 5 seconds of history, the surrounding agents, and the lane map. Built from scratch on [Argoverse 2 Motion Forecasting](https://www.argoverse.org/av2.html), on a single consumer GPU.
 
-![prediction example](assets/hero.png)
+![prediction example](assets/prediction.png)
 
 ## Results
 
